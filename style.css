@@ -55,12 +55,6 @@ p {
 
 }
 
-/* Projects enclosed */
-.projects{
-    display: flex;
-    justify-content: center;
-    margin: 20px;
-}
 
 /* Header navigation */
 header nav{
@@ -185,9 +179,13 @@ font-size: 25px;
     margin-left: 20%;
 }
 
+
+
+/* Projects enclosed */
 .projects{
-    justify-content: space-between;
-    padding: 0 5px 25px 5px;
-}
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}   
 
 }
